@@ -5,16 +5,16 @@
   font-weight: bold;
 }
 
-.regions {
+.best {
   font-size: 20px;
-  color: #0C097D;
+  color: #526E50;
   font-family: sans-serif;
   font-weight: bold;
 }
 
 .families {
   font-size: 16px;
-  color: ##B05E17;
+  color: #B05E17;
   font-family: sans-serif;
   font-weight: bold;
 }
@@ -29,4 +29,9 @@
   font-size: 14px;
   color: #blue;
   font-family: sans-serif;
+}
+
+body {
+   background-repeat: no-repeat;
+ background-image: url("https://www.mey.london/wp-content/themes/mey/images/background-slides/subtle/957414.jpg");
 }
